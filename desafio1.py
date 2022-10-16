@@ -17,4 +17,5 @@ elif(cd == 'vermelho'):
 elif(cd != 'verde, azul, amarelo, vermelho'):
     print('\n\033[7;40mCor de CD inválida!!! Tente novamente.\033[m As cores disponíveis são \033[1;32mVerde\033[m, \033[1;34mAzul\033[m, \033[1;33mAmarelo\033[m e \033[1;31mVermelho\033[m')
 
+print('Teste git e github')
 
